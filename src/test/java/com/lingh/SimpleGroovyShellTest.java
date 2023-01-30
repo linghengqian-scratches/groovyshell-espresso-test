@@ -4,7 +4,6 @@ import groovy.lang.GroovyShell;
 import groovy.lang.Script;
 import org.graalvm.polyglot.Context;
 import org.graalvm.polyglot.Value;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.condition.DisabledInNativeImage;
 
